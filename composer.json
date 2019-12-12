@@ -1,5 +1,5 @@
 {
-    "name": "uhura2/uhura",
+    "name": "uhura/uhura",
     "description": "A communications officer for RESTful apis",
     "require": {
         "php": ">=5.5",
